@@ -1,0 +1,1 @@
+# AWS-Bedrock End to End GenAI Project
